@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "Portátil ASUS TUF",
+        "precio": 4200000.0,
+        "stock": 6,
+        "fecha_creacion": "2026-11-10 10:00:00"
+    },
+    {
+        "id": 2,
+        "nombre": "Teclado Mecánico RGB",
+        "precio": 250000.0,
+        "stock": 124,
+        "fecha_creacion": "2026-11-10 10:05:00"
+    },
+    {
+        "id": 3,
+        "nombre": "Mouse Ergonómico",
+        "precio": 85000.0,
+        "stock": 20,
+        "fecha_creacion": "2026-11-10 10:10:00"
+    },
+    {
+        "id": 4,
+        "nombre": "papa",
+        "precio": 1000.0,
+        "stock": 37,
+        "fecha_creacion": "2026-11-10 04:10:48"
+    }
+]

@@ -1,0 +1,27 @@
+:root {
+    --color-borde: #374151;
+    --color-acento: #0dcaf0;
+    --color-fondo-hover: rgba(255, 255, 255, 0.05);
+}
+
+body {
+    min-height: 100vh;
+}
+
+.table th {
+    color: #94a3b8;
+    font-weight: 600;
+}
+
+.table-hover tbody tr:hover {
+    background-color: var(--color-fondo-hover);
+}
+
+.modal-content {
+    border-radius: 10px;
+}
+
+input:focus {
+    box-shadow: none !important;
+    border: 1px solid var(--color-acento) !important;
+}
